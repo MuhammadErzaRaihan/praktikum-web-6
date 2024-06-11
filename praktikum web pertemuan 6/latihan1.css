@@ -1,0 +1,13 @@
+h2{
+    color: blue;
+}
+
+h5{
+    font-family: Courier;
+}
+
+
+button{
+    align: center;
+    position: relative 50, 25;
+}
